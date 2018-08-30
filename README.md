@@ -1,3 +1,3 @@
 # bilar
 
-det här är den finnaste webbsida jag har gjort i grupp
+här är en del av webbsidorna jag har gjort i grupp
